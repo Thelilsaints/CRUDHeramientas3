@@ -1,0 +1,10 @@
+C:\Users\Lil-Pocho\source\repos\CRUDHeramientas3\CRUDHeramientas3\bin\Debug\CRUDHeramientas3.exe.config
+C:\Users\Lil-Pocho\source\repos\CRUDHeramientas3\CRUDHeramientas3\bin\Debug\CRUDHeramientas3.exe
+C:\Users\Lil-Pocho\source\repos\CRUDHeramientas3\CRUDHeramientas3\bin\Debug\CRUDHeramientas3.pdb
+C:\Users\Lil-Pocho\source\repos\CRUDHeramientas3\CRUDHeramientas3\obj\Debug\CRUDHeramientas3.csproj.AssemblyReference.cache
+C:\Users\Lil-Pocho\source\repos\CRUDHeramientas3\CRUDHeramientas3\obj\Debug\CRUDHeramientas3.Form1.resources
+C:\Users\Lil-Pocho\source\repos\CRUDHeramientas3\CRUDHeramientas3\obj\Debug\CRUDHeramientas3.Properties.Resources.resources
+C:\Users\Lil-Pocho\source\repos\CRUDHeramientas3\CRUDHeramientas3\obj\Debug\CRUDHeramientas3.csproj.GenerateResource.cache
+C:\Users\Lil-Pocho\source\repos\CRUDHeramientas3\CRUDHeramientas3\obj\Debug\CRUDHeramientas3.csproj.CoreCompileInputs.cache
+C:\Users\Lil-Pocho\source\repos\CRUDHeramientas3\CRUDHeramientas3\obj\Debug\CRUDHeramientas3.exe
+C:\Users\Lil-Pocho\source\repos\CRUDHeramientas3\CRUDHeramientas3\obj\Debug\CRUDHeramientas3.pdb
